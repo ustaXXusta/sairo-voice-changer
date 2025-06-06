@@ -1,26 +1,26 @@
-\# Voice Changer App Tutorial
+# Voice Changer App Tutorial
 
 Simple voice effects application for recording and modifying audio\.
 
-\## Installation
+# Installation
 
-\`\`\`bash
+``bash
 pip install tkinter sounddevice numpy librosa scipy praat\-parselmouth
-\`\`\`
+``
 
-\## Quick Start
+# Quick Start
 
-\### 1\. Record Audio
-\- Set duration in seconds
-\- Click "Record Audio"
-\- Use Pause/Stop to control recording
+- Record Audio
+- Set duration in seconds
+- Click "Record Audio"
+- Use Pause/Stop to control recording
 
-\### 2\. Apply Effects
-\- \*\*Pitch Shift\*\*: Make voice higher/lower (\-5 to \+5)
-\- \*\*Formant Shift\*\*: Change voice character (0\.5 to 2\.0)
-\- \*\*Tempo\*\*: Speed up/slow down speech (0\.5 to 2\.0)
-\- \*\*Distortion\*\*: Add roughness (0\.0 to 0\.5)
-\- \*\*Volume\*\*: Adjust loudness (0\.5 to 2\.0)
+# Apply Effects
+- \*\*Pitch Shift\*\*: Make voice higher/lower (\-5 to \+5)
+- \*\*Formant Shift\*\*: Change voice character (0\.5 to 2\.0)
+- \*\*Tempo\*\*: Speed up/slow down speech (0\.5 to 2\.0)
+- \*\*Distortion\*\*: Add roughness (0\.0 to 0\.5)
+- \*\*Volume\*\*: Adjust loudness (0\.5 to 2\.0)
 
 \### 3\. Process & Save
 \- Select recorded file from dropdown
