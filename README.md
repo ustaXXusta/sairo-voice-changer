@@ -22,23 +22,23 @@ pip install tkinter sounddevice numpy librosa scipy praat\-parselmouth
 - \*\*Distortion\*\*: Add roughness (0\.0 to 0\.5)
 - \*\*Volume\*\*: Adjust loudness (0\.5 to 2\.0)
 
-\### 3\. Process & Save
-\- Select recorded file from dropdown
-\- Adjust effect sliders
-\- Click "Edit and Save"
-\- Find output in \`edited/\` folder
+# 3 Process & Save
+- Select recorded file from dropdown
+- Adjust effect sliders
+- Click "Edit and Save"
+- Find output in \`edited/\` folder
 
-\## Presets
-\- Save current settings: "Save Preset"
-\- Load saved settings: Select from dropdown
-\- Delete presets: Click "X" button
+# Presets
+- Save current settings: "Save Preset"
+- Load saved settings: Select from dropdown
+- Delete presets: Click "X" button
 
-\## Popular Effects
-\- \*\*Robot Voice\*\*: Pitch \+4, Distortion 0\.3
-\- \*\*Deep Voice\*\*: Pitch \-4, Formant 0\.7
-\- \*\*Chipmunk\*\*: Pitch \+5, Tempo 1\.8
+# Popular Effects
+- \*\*Robot Voice\*\*: Pitch \+4, Distortion 0\.3
+- \*\*Deep Voice\*\*: Pitch \-4, Formant 0\.7
+- \*\*Chipmunk\*\*: Pitch \+5, Tempo 1\.8
 
-\## Run App
+# Run App
 ``bash
 python voice\_changer\.py
 ``
