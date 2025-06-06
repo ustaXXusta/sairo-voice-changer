@@ -39,8 +39,8 @@ pip install tkinter sounddevice numpy librosa scipy praat\-parselmouth
 \- \*\*Chipmunk\*\*: Pitch \+5, Tempo 1\.8
 
 \## Run App
-\`\`\`bash
+``bash
 python voice\_changer\.py
-\`\`\`
+``
 
 Files saved as \`recorded/record\_timestamp\.wav\` and \`edited/edited\_filename\.wav\`
