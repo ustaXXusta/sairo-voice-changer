@@ -22,7 +22,7 @@ pip install tkinter sounddevice numpy librosa scipy praat\-parselmouth
 - \*\*Distortion\*\*: Add roughness (0\.0 to 0\.5)
 - \*\*Volume\*\*: Adjust loudness (0\.5 to 2\.0)
 
-# 3 Process & Save
+# Process & Save
 - Select recorded file from dropdown
 - Adjust effect sliders
 - Click "Edit and Save"
